@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c1",
+    "name": "Bhopal Institute of Technology & Science",
+    "location": { "city": "Bhopal", "state": "MP" },
+    "fees": 120000,
+    "rating": 4.5,
+    "courses": ["BCA", "MCA", "B.Tech"],
+    "placement": { "average": "6.5 LPA", "highest": "18 LPA" },
+    "cutoffs": { "NIMCET": 1200, "CUET": 85, "JEE": 45000 }
+  },
+  {
+    "id": "c2",
+    "name": "Pune Engineering College",
+    "location": { "city": "Pune", "state": "Maharashtra" },
+    "fees": 180000,
+    "rating": 4.8,
+    "courses": ["B.Tech", "M.Tech"],
+    "placement": { "average": "9.5 LPA", "highest": "32 LPA" },
+    "cutoffs": { "JEE": 15000 }
+  },
+  {
+    "id": "c3",
+    "name": "Central Academy of Computer Applications",
+    "location": { "city": "Indore", "state": "MP" },
+    "fees": 95000,
+    "rating": 4.2,
+    "courses": ["BCA", "MCA"],
+    "placement": { "average": "4.5 LPA", "highest": "12 LPA" },
+    "cutoffs": { "NIMCET": 2500, "CUET": 75 }
+  },
+  {
+    "id": "c4",
+    "name": "Bangalore Tech University",
+    "location": { "city": "Bangalore", "state": "Karnataka" },
+    "fees": 250000,
+    "rating": 4.9,
+    "courses": ["B.Tech", "BCA", "MCA"],
+    "placement": { "average": "12 LPA", "highest": "45 LPA" },
+    "cutoffs": { "JEE": 8000, "NIMCET": 500, "CUET": 95 }
+  },
+  {
+    "id": "c5",
+    "name": "Delhi Institute of Advanced Studies",
+    "location": { "city": "New Delhi", "state": "Delhi" },
+    "fees": 140000,
+    "rating": 4.6,
+    "courses": ["MCA", "B.Tech"],
+    "placement": { "average": "8.0 LPA", "highest": "24 LPA" },
+    "cutoffs": { "NIMCET": 900, "JEE": 25000 }
+  },
+  {
+    "id": "c6",
+    "name": "Mumbai College of Engineering",
+    "location": { "city": "Mumbai", "state": "Maharashtra" },
+    "fees": 210000,
+    "rating": 4.4,
+    "courses": ["B.Tech"],
+    "placement": { "average": "7.5 LPA", "highest": "20 LPA" },
+    "cutoffs": { "JEE": 35000 }
+  },
+  {
+    "id": "c7",
+    "name": "Technocrats Institute",
+    "location": { "city": "Bhopal", "state": "MP" },
+    "fees": 115000,
+    "rating": 4.1,
+    "courses": ["B.Tech", "MCA"],
+    "placement": { "average": "5.5 LPA", "highest": "14 LPA" },
+    "cutoffs": { "NIMCET": 3000, "JEE": 65000 }
+  },
+  {
+    "id": "c8",
+    "name": "National College of Science",
+    "location": { "city": "Chennai", "state": "TN" },
+    "fees": 85000,
+    "rating": 4.3,
+    "courses": ["BCA", "MCA"],
+    "placement": { "average": "5.0 LPA", "highest": "10 LPA" },
+    "cutoffs": { "NIMCET": 4500, "CUET": 70 }
+  },
+  {
+    "id": "c9",
+    "name": "Jaipur IT Academy",
+    "location": { "city": "Jaipur", "state": "Rajasthan" },
+    "fees": 105000,
+    "rating": 4.0,
+    "courses": ["BCA", "B.Tech"],
+    "placement": { "average": "4.8 LPA", "highest": "11 LPA" },
+    "cutoffs": { "CUET": 65, "JEE": 85000 }
+  },
+  {
+    "id": "c10",
+    "name": "Hyderabad Tech Central",
+    "location": { "city": "Hyderabad", "state": "Telangana" },
+    "fees": 160000,
+    "rating": 4.7,
+    "courses": ["MCA", "B.Tech"],
+    "placement": { "average": "8.5 LPA", "highest": "28 LPA" },
+    "cutoffs": { "NIMCET": 800, "JEE": 18000 }
+  },
+  {
+    "id": "c11",
+    "name": "Oriental Computing Institute",
+    "location": { "city": "Bhopal", "state": "MP" },
+    "fees": 90000,
+    "rating": 4.0,
+    "courses": ["BCA", "MCA"],
+    "placement": { "average": "4.2 LPA", "highest": "9 LPA" },
+    "cutoffs": { "NIMCET": 5000, "CUET": 60 }
+  },
+  {
+    "id": "c12",
+    "name": "Chandigarh University Campus",
+    "location": { "city": "Chandigarh", "state": "CH" },
+    "fees": 175000,
+    "rating": 4.6,
+    "courses": ["B.Tech", "MCA", "BCA"],
+    "placement": { "average": "7.0 LPA", "highest": "22 LPA" },
+    "cutoffs": { "NIMCET": 1500, "CUET": 80, "JEE": 40000 }
+  }
+]
